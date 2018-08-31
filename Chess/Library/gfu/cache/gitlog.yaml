@@ -1,0 +1,1166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-08-30T21:48:27.310-06:00
+  initializedAtString: 2018-08-30T21:37:58.059-06:00
+  log:
+  - commitID: 2d83488bdc55feb81ea1ad81a445bb694888c49f
+    mergeA: 
+    mergeB: 
+    authorName: Eric
+    authorEmail: eheil920@gmail.com
+    commitEmail: eheil920@gmail.com
+    commitName: Eric
+    summary: Test
+    description: Test
+    timeString: 2018-08-30T21:38:10.000-06:00
+    commitTimeString: 2018-08-30T21:38:10.000-06:00
+    changes:
+    - path: Chess\Assets\Plugins.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 5d9322938850fd06e1bf1344990598efe2420d98
+    mergeA: 
+    mergeB: 
+    authorName: Eric
+    authorEmail: eheil920@gmail.com
+    commitEmail: eheil920@gmail.com
+    commitName: Eric
+    summary: Added Game Files
+    description: Added Game Files
+    timeString: 2018-08-30T19:33:16.000-06:00
+    commitTimeString: 2018-08-30T19:33:16.000-06:00
+    changes:
+    - path: Chess\Assets\Scenes.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess.meta
+      projectPath: Assets\chess.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D.meta
+      projectPath: Assets\chess\2D.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Chess_Pieces Array Black.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Chess_Pieces
+        Array Black.png
+      projectPath: Assets\chess\2D\Chess_Pieces Array Black.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Chess_Pieces Array Black.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Chess_Pieces
+        Array Black.png.meta
+      projectPath: Assets\chess\2D\Chess_Pieces Array Black.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Chess_Pieces Array White.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Chess_Pieces
+        Array White.png
+      projectPath: Assets\chess\2D\Chess_Pieces Array White.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Chess_Pieces Array White.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Chess_Pieces
+        Array White.png.meta
+      projectPath: Assets\chess\2D\Chess_Pieces Array White.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Chessboard A_2D.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Chessboard
+        A_2D.png
+      projectPath: Assets\chess\2D\Chessboard A_2D.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Chessboard A_2D.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Chessboard
+        A_2D.png.meta
+      projectPath: Assets\chess\2D\Chessboard A_2D.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Chessboard B_2D.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Chessboard
+        B_2D.png
+      projectPath: Assets\chess\2D\Chessboard B_2D.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Chessboard B_2D.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Chessboard
+        B_2D.png.meta
+      projectPath: Assets\chess\2D\Chessboard B_2D.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\HUD_Win Streak.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\HUD_Win
+        Streak.png
+      projectPath: Assets\chess\2D\HUD_Win Streak.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\HUD_Win Streak.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\HUD_Win
+        Streak.png.meta
+      projectPath: Assets\chess\2D\HUD_Win Streak.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo.meta
+      projectPath: Assets\chess\2D\Pieces_Solo.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\B_Bishop_2D.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\B_Bishop_2D.png
+      projectPath: Assets\chess\2D\Pieces_Solo\B_Bishop_2D.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\B_Bishop_2D.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\B_Bishop_2D.png.meta
+      projectPath: Assets\chess\2D\Pieces_Solo\B_Bishop_2D.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\B_King_2D.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\B_King_2D.png
+      projectPath: Assets\chess\2D\Pieces_Solo\B_King_2D.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\B_King_2D.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\B_King_2D.png.meta
+      projectPath: Assets\chess\2D\Pieces_Solo\B_King_2D.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\B_Knight_2D.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\B_Knight_2D.png
+      projectPath: Assets\chess\2D\Pieces_Solo\B_Knight_2D.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\B_Knight_2D.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\B_Knight_2D.png.meta
+      projectPath: Assets\chess\2D\Pieces_Solo\B_Knight_2D.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\B_Pawn_2D.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\B_Pawn_2D.png
+      projectPath: Assets\chess\2D\Pieces_Solo\B_Pawn_2D.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\B_Pawn_2D.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\B_Pawn_2D.png.meta
+      projectPath: Assets\chess\2D\Pieces_Solo\B_Pawn_2D.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\B_Queen_2D.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\B_Queen_2D.png
+      projectPath: Assets\chess\2D\Pieces_Solo\B_Queen_2D.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\B_Queen_2D.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\B_Queen_2D.png.meta
+      projectPath: Assets\chess\2D\Pieces_Solo\B_Queen_2D.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\B_Rook_2D.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\B_Rook_2D.png
+      projectPath: Assets\chess\2D\Pieces_Solo\B_Rook_2D.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\B_Rook_2D.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\B_Rook_2D.png.meta
+      projectPath: Assets\chess\2D\Pieces_Solo\B_Rook_2D.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\NewBehaviourScript.cs
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\NewBehaviourScript.cs
+      projectPath: Assets\chess\2D\Pieces_Solo\NewBehaviourScript.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\NewBehaviourScript.cs.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\NewBehaviourScript.cs.meta
+      projectPath: Assets\chess\2D\Pieces_Solo\NewBehaviourScript.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\W_Bishop_2D.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\W_Bishop_2D.png
+      projectPath: Assets\chess\2D\Pieces_Solo\W_Bishop_2D.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\W_Bishop_2D.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\W_Bishop_2D.png.meta
+      projectPath: Assets\chess\2D\Pieces_Solo\W_Bishop_2D.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\W_King_2D.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\W_King_2D.png
+      projectPath: Assets\chess\2D\Pieces_Solo\W_King_2D.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\W_King_2D.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\W_King_2D.png.meta
+      projectPath: Assets\chess\2D\Pieces_Solo\W_King_2D.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\W_Knight_2D.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\W_Knight_2D.png
+      projectPath: Assets\chess\2D\Pieces_Solo\W_Knight_2D.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\W_Knight_2D.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\W_Knight_2D.png.meta
+      projectPath: Assets\chess\2D\Pieces_Solo\W_Knight_2D.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\W_Pawn_2D.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\W_Pawn_2D.png
+      projectPath: Assets\chess\2D\Pieces_Solo\W_Pawn_2D.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\W_Pawn_2D.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\W_Pawn_2D.png.meta
+      projectPath: Assets\chess\2D\Pieces_Solo\W_Pawn_2D.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\W_Queen_2D.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\W_Queen_2D.png
+      projectPath: Assets\chess\2D\Pieces_Solo\W_Queen_2D.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\W_Queen_2D.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\W_Queen_2D.png.meta
+      projectPath: Assets\chess\2D\Pieces_Solo\W_Queen_2D.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\W_Rook_2D.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\W_Rook_2D.png
+      projectPath: Assets\chess\2D\Pieces_Solo\W_Rook_2D.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\2D\Pieces_Solo\W_Rook_2D.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\2D\Pieces_Solo\W_Rook_2D.png.meta
+      projectPath: Assets\chess\2D\Pieces_Solo\W_Rook_2D.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D.meta
+      projectPath: Assets\chess\3D.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\GPVFX_Bishop.fbx
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\GPVFX_Bishop.fbx
+      projectPath: Assets\chess\3D\GPVFX_Bishop.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\GPVFX_Bishop.fbx.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\GPVFX_Bishop.fbx.meta
+      projectPath: Assets\chess\3D\GPVFX_Bishop.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\GPVFX_Chessboard Base_Wood.fbx
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\GPVFX_Chessboard
+        Base_Wood.fbx
+      projectPath: Assets\chess\3D\GPVFX_Chessboard Base_Wood.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\GPVFX_Chessboard Base_Wood.fbx.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\GPVFX_Chessboard
+        Base_Wood.fbx.meta
+      projectPath: Assets\chess\3D\GPVFX_Chessboard Base_Wood.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\GPVFX_Chessboard Grid.fbx
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\GPVFX_Chessboard
+        Grid.fbx
+      projectPath: Assets\chess\3D\GPVFX_Chessboard Grid.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\GPVFX_Chessboard Grid.fbx.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\GPVFX_Chessboard
+        Grid.fbx.meta
+      projectPath: Assets\chess\3D\GPVFX_Chessboard Grid.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\GPVFX_King.fbx
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\GPVFX_King.fbx
+      projectPath: Assets\chess\3D\GPVFX_King.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\GPVFX_King.fbx.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\GPVFX_King.fbx.meta
+      projectPath: Assets\chess\3D\GPVFX_King.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\GPVFX_Knight.fbx
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\GPVFX_Knight.fbx
+      projectPath: Assets\chess\3D\GPVFX_Knight.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\GPVFX_Knight.fbx.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\GPVFX_Knight.fbx.meta
+      projectPath: Assets\chess\3D\GPVFX_Knight.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\GPVFX_Pawn.fbx
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\GPVFX_Pawn.fbx
+      projectPath: Assets\chess\3D\GPVFX_Pawn.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\GPVFX_Pawn.fbx.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\GPVFX_Pawn.fbx.meta
+      projectPath: Assets\chess\3D\GPVFX_Pawn.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\GPVFX_Queen.fbx
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\GPVFX_Queen.fbx
+      projectPath: Assets\chess\3D\GPVFX_Queen.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\GPVFX_Queen.fbx.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\GPVFX_Queen.fbx.meta
+      projectPath: Assets\chess\3D\GPVFX_Queen.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\GPVFX_Rook.fbx
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\GPVFX_Rook.fbx
+      projectPath: Assets\chess\3D\GPVFX_Rook.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\GPVFX_Rook.fbx.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\GPVFX_Rook.fbx.meta
+      projectPath: Assets\chess\3D\GPVFX_Rook.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials.meta
+      projectPath: Assets\chess\3D\Materials.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Black.mat
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Black.mat
+      projectPath: Assets\chess\3D\Materials\Black.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Black.mat.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Black.mat.meta
+      projectPath: Assets\chess\3D\Materials\Black.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Chessboard Base.mat
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Chessboard
+        Base.mat
+      projectPath: Assets\chess\3D\Materials\Chessboard Base.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Chessboard Base.mat.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Chessboard
+        Base.mat.meta
+      projectPath: Assets\chess\3D\Materials\Chessboard Base.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Chessboard Base_Painted.001.mat
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Chessboard
+        Base_Painted.001.mat
+      projectPath: Assets\chess\3D\Materials\Chessboard Base_Painted.001.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Chessboard Base_Painted.001.mat.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Chessboard
+        Base_Painted.001.mat.meta
+      projectPath: Assets\chess\3D\Materials\Chessboard Base_Painted.001.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Gold.002.mat
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Gold.002.mat
+      projectPath: Assets\chess\3D\Materials\Gold.002.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Gold.002.mat.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Gold.002.mat.meta
+      projectPath: Assets\chess\3D\Materials\Gold.002.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Material.018.mat
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Material.018.mat
+      projectPath: Assets\chess\3D\Materials\Material.018.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Material.018.mat.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Material.018.mat.meta
+      projectPath: Assets\chess\3D\Materials\Material.018.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Material.019.mat
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Material.019.mat
+      projectPath: Assets\chess\3D\Materials\Material.019.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Material.019.mat.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Material.019.mat.meta
+      projectPath: Assets\chess\3D\Materials\Material.019.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Outline.mat
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Outline.mat
+      projectPath: Assets\chess\3D\Materials\Outline.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Outline.mat.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Outline.mat.meta
+      projectPath: Assets\chess\3D\Materials\Outline.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Textures.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Textures.meta
+      projectPath: Assets\chess\3D\Materials\Textures.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Textures\GPVFX_Chessboard Painted.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Textures\GPVFX_Chessboard
+        Painted.png
+      projectPath: Assets\chess\3D\Materials\Textures\GPVFX_Chessboard Painted.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Textures\GPVFX_Chessboard Painted.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Textures\GPVFX_Chessboard
+        Painted.png.meta
+      projectPath: Assets\chess\3D\Materials\Textures\GPVFX_Chessboard Painted.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Textures\GPVFX_Wood 1.jpg
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Textures\GPVFX_Wood
+        1.jpg
+      projectPath: Assets\chess\3D\Materials\Textures\GPVFX_Wood 1.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Textures\GPVFX_Wood 1.jpg.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Textures\GPVFX_Wood
+        1.jpg.meta
+      projectPath: Assets\chess\3D\Materials\Textures\GPVFX_Wood 1.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished Dark_diffuse_S.tiff
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble
+        Polished Dark_diffuse_S.tiff
+      projectPath: Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished
+        Dark_diffuse_S.tiff
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished Dark_diffuse_S.tiff.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble
+        Polished Dark_diffuse_S.tiff.meta
+      projectPath: Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished
+        Dark_diffuse_S.tiff.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished Dark_normalmap_S.tiff
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble
+        Polished Dark_normalmap_S.tiff
+      projectPath: Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished
+        Dark_normalmap_S.tiff
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished Dark_normalmap_S.tiff.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble
+        Polished Dark_normalmap_S.tiff.meta
+      projectPath: Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished
+        Dark_normalmap_S.tiff.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished White
+        2_diffuse_S.tiff
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble
+        Polished White 2_diffuse_S.tiff
+      projectPath: Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished
+        White 2_diffuse_S.tiff
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished White
+        2_diffuse_S.tiff.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble
+        Polished White 2_diffuse_S.tiff.meta
+      projectPath: Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished
+        White 2_diffuse_S.tiff.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished White
+        2_gloss_S.tiff
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble
+        Polished White 2_gloss_S.tiff
+      projectPath: Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished
+        White 2_gloss_S.tiff
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished White
+        2_gloss_S.tiff.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble
+        Polished White 2_gloss_S.tiff.meta
+      projectPath: Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished
+        White 2_gloss_S.tiff.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished White
+        2_normalmap_S.tiff
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble
+        Polished White 2_normalmap_S.tiff
+      projectPath: Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished
+        White 2_normalmap_S.tiff
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished White
+        2_normalmap_S.tiff.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble
+        Polished White 2_normalmap_S.tiff.meta
+      projectPath: Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished
+        White 2_normalmap_S.tiff.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished White
+        2_roughness_S.tiff
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble
+        Polished White 2_roughness_S.tiff
+      projectPath: Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished
+        White 2_roughness_S.tiff
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished White
+        2_roughness_S.tiff.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\Textures\TexturesCom_Marble
+        Polished White 2_roughness_S.tiff.meta
+      projectPath: Assets\chess\3D\Materials\Textures\TexturesCom_Marble Polished
+        White 2_roughness_S.tiff.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\WHITE_PRIMARY.001.mat
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\WHITE_PRIMARY.001.mat
+      projectPath: Assets\chess\3D\Materials\WHITE_PRIMARY.001.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\WHITE_PRIMARY.001.mat.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\WHITE_PRIMARY.001.mat.meta
+      projectPath: Assets\chess\3D\Materials\WHITE_PRIMARY.001.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\White.mat
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\White.mat
+      projectPath: Assets\chess\3D\Materials\White.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\White.mat.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\White.mat.meta
+      projectPath: Assets\chess\3D\Materials\White.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\White_Board.001.mat
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\White_Board.001.mat
+      projectPath: Assets\chess\3D\Materials\White_Board.001.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\3D\Materials\White_Board.001.mat.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\3D\Materials\White_Board.001.mat.meta
+      projectPath: Assets\chess\3D\Materials\White_Board.001.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\Chess Set.unity
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\Chess
+        Set.unity
+      projectPath: Assets\chess\Chess Set.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\Chess Set.unity.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\Chess
+        Set.unity.meta
+      projectPath: Assets\chess\Chess Set.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\Gameplan VFX.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\Gameplan
+        VFX.meta
+      projectPath: Assets\chess\Gameplan VFX.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\Gameplan VFX\Cell rings Daylight.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\Gameplan
+        VFX\Cell rings Daylight.png
+      projectPath: Assets\chess\Gameplan VFX\Cell rings Daylight.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\Gameplan VFX\Cell rings Daylight.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\Gameplan
+        VFX\Cell rings Daylight.png.meta
+      projectPath: Assets\chess\Gameplan VFX\Cell rings Daylight.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\Gameplan VFX\GPVFX_Demo Enviro.mat
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\Gameplan
+        VFX\GPVFX_Demo Enviro.mat
+      projectPath: Assets\chess\Gameplan VFX\GPVFX_Demo Enviro.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\Gameplan VFX\GPVFX_Demo Enviro.mat.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\Gameplan
+        VFX\GPVFX_Demo Enviro.mat.meta
+      projectPath: Assets\chess\Gameplan VFX\GPVFX_Demo Enviro.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\Gameplan VFX\Gameplan Logo_Semi.png
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\Gameplan
+        VFX\Gameplan Logo_Semi.png
+      projectPath: Assets\chess\Gameplan VFX\Gameplan Logo_Semi.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Assets\chess\Gameplan VFX\Gameplan Logo_Semi.png.meta
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Assets\chess\Gameplan
+        VFX\Gameplan Logo_Semi.png.meta
+      projectPath: Assets\chess\Gameplan VFX\Gameplan Logo_Semi.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\Packages\manifest.json
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\ProjectSettings\InputManager.asset
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\ProjectSettings\TagManager.asset
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Chess\ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\Chess\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 5e3cd801c49c0a8c722d22763f810d01fb4823b8
+    mergeA: 
+    mergeB: 
+    authorName: ericheinze
+    authorEmail: 42485735+ericheinze@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-08-30T19:19:49.000-06:00
+    commitTimeString: 2018-08-30T19:19:49.000-06:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: README.md
+      fullPath: C:\Users\Eric\Documents\GitHub\unity-project-chess\chess-game\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      status: 4
+      staged: 0
