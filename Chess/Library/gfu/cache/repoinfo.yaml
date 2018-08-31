@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-08-30T21:48:23.172-06:00
-  initializedAtString: 2018-08-30T21:37:54.997-06:00
+  lastUpdatedAtString: 2018-08-30T22:03:53.200-06:00
+  initializedAtString: 2018-08-30T22:03:53.200-06:00
   currentGitRemote:
     name: origin
     url: https://github.com/ericheinze/chess-game.git
@@ -34,4 +34,4 @@ MonoBehaviour:
   currentConfigRemote:
     name: origin
     url: https://github.com/ericheinze/chess-game.git
-  currentHead: 2d83488
+  currentHead: b6a47db

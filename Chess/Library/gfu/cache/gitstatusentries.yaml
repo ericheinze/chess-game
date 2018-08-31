@@ -12,6 +12,1110 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-08-30T21:38:12.190-06:00
-  initializedAtString: 2018-08-30T21:37:55.014-06:00
-  entries: []
+  lastUpdatedAtString: 2018-08-30T22:03:53.219-06:00
+  initializedAtString: 2018-08-30T22:03:53.219-06:00
+  entries:
+  - path: Chess\Assembly-CSharp.csproj
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Chess.sln
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Chess.sln
+    projectPath: Chess.sln
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\assetDatabase3
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\EditorInstance.json
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\00\00000000000000002000000000000000
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\00\00000000000000002000000000000000
+    projectPath: Library\metadata\00\00000000000000002000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\00\00000000000000003000000000000000
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\00\00000000000000003000000000000000
+    projectPath: Library\metadata\00\00000000000000003000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\00\00000000000000004000000000000000
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\00\00000000000000004000000000000000
+    projectPath: Library\metadata\00\00000000000000004000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\00\00000000000000004100000000000000
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\00\00000000000000004100000000000000
+    projectPath: Library\metadata\00\00000000000000004100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\00\00000000000000005000000000000000
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\00\00000000000000005000000000000000
+    projectPath: Library\metadata\00\00000000000000005000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\00\00000000000000005100000000000000
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\00\00000000000000005100000000000000
+    projectPath: Library\metadata\00\00000000000000005100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\00\00000000000000006000000000000000
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\00\00000000000000006000000000000000
+    projectPath: Library\metadata\00\00000000000000006000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\00\00000000000000006100000000000000
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\00\00000000000000006100000000000000
+    projectPath: Library\metadata\00\00000000000000006100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\00\00000000000000007000000000000000
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\00\00000000000000007000000000000000
+    projectPath: Library\metadata\00\00000000000000007000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\00\00000000000000007100000000000000
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\00\00000000000000007100000000000000
+    projectPath: Library\metadata\00\00000000000000007100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\00\00000000000000008000000000000000
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\00\00000000000000008000000000000000
+    projectPath: Library\metadata\00\00000000000000008000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\00\00000000000000009000000000000000
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\00\00000000000000009000000000000000
+    projectPath: Library\metadata\00\00000000000000009000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\00\0000000000000000a100000000000000
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\00\0000000000000000a100000000000000
+    projectPath: Library\metadata\00\0000000000000000a100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\00\0000000000000000b000000000000000
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\00\0000000000000000b000000000000000
+    projectPath: Library\metadata\00\0000000000000000b000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\00\0000000000000000b100000000000000
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\00\0000000000000000b100000000000000
+    projectPath: Library\metadata\00\0000000000000000b100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\00\0000000000000000c000000000000000
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\00\0000000000000000c000000000000000
+    projectPath: Library\metadata\00\0000000000000000c000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\07\072450ffed31fe545a60f71f33f53916
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\07\072450ffed31fe545a60f71f33f53916
+    projectPath: Library\metadata\07\072450ffed31fe545a60f71f33f53916
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+    projectPath: Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\0d\0db9c081d9f184dc1b1cd8f4effc7b0b
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\0d\0db9c081d9f184dc1b1cd8f4effc7b0b
+    projectPath: Library\metadata\0d\0db9c081d9f184dc1b1cd8f4effc7b0b
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\10\1093372be84d947bd98e6dc053aba9dc
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\10\1093372be84d947bd98e6dc053aba9dc
+    projectPath: Library\metadata\10\1093372be84d947bd98e6dc053aba9dc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+    projectPath: Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\13\131a6b21c8605f84396be9f6751fb6e3
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\13\131a6b21c8605f84396be9f6751fb6e3
+    projectPath: Library\metadata\13\131a6b21c8605f84396be9f6751fb6e3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\16\1638f3415e6a8594ba9323f0ba3c5acf
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\16\1638f3415e6a8594ba9323f0ba3c5acf
+    projectPath: Library\metadata\16\1638f3415e6a8594ba9323f0ba3c5acf
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\19\19ead9387dc9ef14fad0436a846268f7
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\19\19ead9387dc9ef14fad0436a846268f7
+    projectPath: Library\metadata\19\19ead9387dc9ef14fad0436a846268f7
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\1b\1b355da31ea043feba0c03e35dd4bc62
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\1b\1b355da31ea043feba0c03e35dd4bc62
+    projectPath: Library\metadata\1b\1b355da31ea043feba0c03e35dd4bc62
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\1c\1c3d1c966031a44ea8cdee7e544b9855
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\1c\1c3d1c966031a44ea8cdee7e544b9855
+    projectPath: Library\metadata\1c\1c3d1c966031a44ea8cdee7e544b9855
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+    projectPath: Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\1e\1ea21c492ec9b4f778f6f0a9dfa0c532
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\1e\1ea21c492ec9b4f778f6f0a9dfa0c532
+    projectPath: Library\metadata\1e\1ea21c492ec9b4f778f6f0a9dfa0c532
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\1f\1f58a548bbaff4a95a8a8a1a67562d5b
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\1f\1f58a548bbaff4a95a8a8a1a67562d5b
+    projectPath: Library\metadata\1f\1f58a548bbaff4a95a8a8a1a67562d5b
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\20\204a570cd0814334ba2fd79718030cc0
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\20\204a570cd0814334ba2fd79718030cc0
+    projectPath: Library\metadata\20\204a570cd0814334ba2fd79718030cc0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\20\209004b7c7b6947e3a15e2d9626c6cd1
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\20\209004b7c7b6947e3a15e2d9626c6cd1
+    projectPath: Library\metadata\20\209004b7c7b6947e3a15e2d9626c6cd1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+    projectPath: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\26\2642008eb81683d4dbc7cd4ad6a2c485
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\26\2642008eb81683d4dbc7cd4ad6a2c485
+    projectPath: Library\metadata\26\2642008eb81683d4dbc7cd4ad6a2c485
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+    projectPath: Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\29\29acc54505ef849ac925be76a10c6b3a
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\29\29acc54505ef849ac925be76a10c6b3a
+    projectPath: Library\metadata\29\29acc54505ef849ac925be76a10c6b3a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\2c\2cda990e2423bbf4892e6590ba056729
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\2c\2cda990e2423bbf4892e6590ba056729
+    projectPath: Library\metadata\2c\2cda990e2423bbf4892e6590ba056729
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+    projectPath: Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+    projectPath: Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+    projectPath: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\32\32ba7d8934356412e88226a0b16557f0
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\32\32ba7d8934356412e88226a0b16557f0
+    projectPath: Library\metadata\32\32ba7d8934356412e88226a0b16557f0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\38\382845e9ae7fd4bbcae87e795b1732d2
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\38\382845e9ae7fd4bbcae87e795b1732d2
+    projectPath: Library\metadata\38\382845e9ae7fd4bbcae87e795b1732d2
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+    projectPath: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    projectPath: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\3b\3bb0254b9671413d9d08a855c5090237
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\3b\3bb0254b9671413d9d08a855c5090237
+    projectPath: Library\metadata\3b\3bb0254b9671413d9d08a855c5090237
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\3e\3e9a2175e0404f7ea30b2b694850bae0
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\3e\3e9a2175e0404f7ea30b2b694850bae0
+    projectPath: Library\metadata\3e\3e9a2175e0404f7ea30b2b694850bae0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\3e\3ebcae0daf8394e548da469833b04106
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\3e\3ebcae0daf8394e548da469833b04106
+    projectPath: Library\metadata\3e\3ebcae0daf8394e548da469833b04106
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\40\405b9b51bb344a128608d968297df79c
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\40\405b9b51bb344a128608d968297df79c
+    projectPath: Library\metadata\40\405b9b51bb344a128608d968297df79c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+    projectPath: Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\46\46098a81a64a45c5b756320e10a22f13
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\46\46098a81a64a45c5b756320e10a22f13
+    projectPath: Library\metadata\46\46098a81a64a45c5b756320e10a22f13
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\49\49084320a93464c4aac4806e7b02323d
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\49\49084320a93464c4aac4806e7b02323d
+    projectPath: Library\metadata\49\49084320a93464c4aac4806e7b02323d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+    projectPath: Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    projectPath: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\4a\4a813084baf34314aa7b09881c317646
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\4a\4a813084baf34314aa7b09881c317646
+    projectPath: Library\metadata\4a\4a813084baf34314aa7b09881c317646
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\4b\4b1b985d7c66d4cba91946bc280878ce
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\4b\4b1b985d7c66d4cba91946bc280878ce
+    projectPath: Library\metadata\4b\4b1b985d7c66d4cba91946bc280878ce
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    projectPath: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\4d\4d64205430999a04981dab6f259b6e44
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\4d\4d64205430999a04981dab6f259b6e44
+    projectPath: Library\metadata\4d\4d64205430999a04981dab6f259b6e44
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\4e\4ed40abe3301f47969aa44350488c7d0
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\4e\4ed40abe3301f47969aa44350488c7d0
+    projectPath: Library\metadata\4e\4ed40abe3301f47969aa44350488c7d0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\51\5113348e5c883864fad9ad30c7d07433
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\51\5113348e5c883864fad9ad30c7d07433
+    projectPath: Library\metadata\51\5113348e5c883864fad9ad30c7d07433
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+    projectPath: Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    projectPath: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\56\5623c8f1b1d9e3a4fa1a408b1c2df99f
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\56\5623c8f1b1d9e3a4fa1a408b1c2df99f
+    projectPath: Library\metadata\56\5623c8f1b1d9e3a4fa1a408b1c2df99f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+    projectPath: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\5b\5b5eaf088814fbd498e97093c6484119
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\5b\5b5eaf088814fbd498e97093c6484119
+    projectPath: Library\metadata\5b\5b5eaf088814fbd498e97093c6484119
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\5b\5bf33171a7890405fadd9ba6c341d086
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\5b\5bf33171a7890405fadd9ba6c341d086
+    projectPath: Library\metadata\5b\5bf33171a7890405fadd9ba6c341d086
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\5c\5c87fe55678ba447eb605e8ee793c858
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\5c\5c87fe55678ba447eb605e8ee793c858
+    projectPath: Library\metadata\5c\5c87fe55678ba447eb605e8ee793c858
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\5e\5e27b1dcd46fbfb459fd62aef1d20f07
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\5e\5e27b1dcd46fbfb459fd62aef1d20f07
+    projectPath: Library\metadata\5e\5e27b1dcd46fbfb459fd62aef1d20f07
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\5e\5e5b4aa08c56e4403bc302f81a80de06
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\5e\5e5b4aa08c56e4403bc302f81a80de06
+    projectPath: Library\metadata\5e\5e5b4aa08c56e4403bc302f81a80de06
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    projectPath: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\60\60c504fdfb9b71a408c9fa1d97363eac
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\60\60c504fdfb9b71a408c9fa1d97363eac
+    projectPath: Library\metadata\60\60c504fdfb9b71a408c9fa1d97363eac
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\64\6416c33b0bf58844fa4cc6d5182f23cb
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\64\6416c33b0bf58844fa4cc6d5182f23cb
+    projectPath: Library\metadata\64\6416c33b0bf58844fa4cc6d5182f23cb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\69\6981461fe431401459211818212a29cf
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\69\6981461fe431401459211818212a29cf
+    projectPath: Library\metadata\69\6981461fe431401459211818212a29cf
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    projectPath: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\6a\6a761930f24b14b7f935bb6aa8099865
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\6a\6a761930f24b14b7f935bb6aa8099865
+    projectPath: Library\metadata\6a\6a761930f24b14b7f935bb6aa8099865
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\6a\6a8e355a091a6465abed24cc14a7d90f
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\6a\6a8e355a091a6465abed24cc14a7d90f
+    projectPath: Library\metadata\6a\6a8e355a091a6465abed24cc14a7d90f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\6b\6ba1720d8cbc8419985cbadd056c729c
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\6b\6ba1720d8cbc8419985cbadd056c729c
+    projectPath: Library\metadata\6b\6ba1720d8cbc8419985cbadd056c729c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\6e\6e2d432c5ea14e75aa3a79f90f704442
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\6e\6e2d432c5ea14e75aa3a79f90f704442
+    projectPath: Library\metadata\6e\6e2d432c5ea14e75aa3a79f90f704442
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\6f\6fe576b47d8b47688ec5d02bccd15cf9
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\6f\6fe576b47d8b47688ec5d02bccd15cf9
+    projectPath: Library\metadata\6f\6fe576b47d8b47688ec5d02bccd15cf9
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\74\74101c7619674b24d82777e7458e0977
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\74\74101c7619674b24d82777e7458e0977
+    projectPath: Library\metadata\74\74101c7619674b24d82777e7458e0977
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\74\74608ee63f2a24ff79acc5c595e62400
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\74\74608ee63f2a24ff79acc5c595e62400
+    projectPath: Library\metadata\74\74608ee63f2a24ff79acc5c595e62400
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+    projectPath: Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    projectPath: Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\77\775ff0b11bf444023be9b103aaa4c498
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\77\775ff0b11bf444023be9b103aaa4c498
+    projectPath: Library\metadata\77\775ff0b11bf444023be9b103aaa4c498
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\7a\7ae06a498d47544d7a75ddfdf1ada9d4
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\7a\7ae06a498d47544d7a75ddfdf1ada9d4
+    projectPath: Library\metadata\7a\7ae06a498d47544d7a75ddfdf1ada9d4
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\7f\7feb92ab4cc021341af3045d012717cb
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\7f\7feb92ab4cc021341af3045d012717cb
+    projectPath: Library\metadata\7f\7feb92ab4cc021341af3045d012717cb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    projectPath: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    projectPath: Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\84\84b9c631983a1446f941dd8c7d44b1c6
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\84\84b9c631983a1446f941dd8c7d44b1c6
+    projectPath: Library\metadata\84\84b9c631983a1446f941dd8c7d44b1c6
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+    projectPath: Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\85\85c363389e0424d37945f8ade9a72323
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\85\85c363389e0424d37945f8ade9a72323
+    projectPath: Library\metadata\85\85c363389e0424d37945f8ade9a72323
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\85\85f2b1bed02094a1a8173d9fa9c704eb
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\85\85f2b1bed02094a1a8173d9fa9c704eb
+    projectPath: Library\metadata\85\85f2b1bed02094a1a8173d9fa9c704eb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    projectPath: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\8d\8dde74c05b5674a6b96e6c855da9dc82
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\8d\8dde74c05b5674a6b96e6c855da9dc82
+    projectPath: Library\metadata\8d\8dde74c05b5674a6b96e6c855da9dc82
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+    projectPath: Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+    projectPath: Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\92\92624f887bef5411881ed3015b9fd20f
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\92\92624f887bef5411881ed3015b9fd20f
+    projectPath: Library\metadata\92\92624f887bef5411881ed3015b9fd20f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\92\92aee0fb85e2f4c2f9f3a34e83522ec3
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\92\92aee0fb85e2f4c2f9f3a34e83522ec3
+    projectPath: Library\metadata\92\92aee0fb85e2f4c2f9f3a34e83522ec3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\9b\9b3a918d590e4e1459441f9ead225410
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\9b\9b3a918d590e4e1459441f9ead225410
+    projectPath: Library\metadata\9b\9b3a918d590e4e1459441f9ead225410
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\9c\9c7ba5185d28d475b902a82911b83e2c
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\9c\9c7ba5185d28d475b902a82911b83e2c
+    projectPath: Library\metadata\9c\9c7ba5185d28d475b902a82911b83e2c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\a2\a2d6ae11f6a2c4d918511c72fb3f09f5
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\a2\a2d6ae11f6a2c4d918511c72fb3f09f5
+    projectPath: Library\metadata\a2\a2d6ae11f6a2c4d918511c72fb3f09f5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\aa\aa2083952c228ce409569f5d690c4dd9
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\aa\aa2083952c228ce409569f5d690c4dd9
+    projectPath: Library\metadata\aa\aa2083952c228ce409569f5d690c4dd9
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\ad\ad3539a1bf7ab2c41ba07a9f67559f6e
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\ad\ad3539a1bf7ab2c41ba07a9f67559f6e
+    projectPath: Library\metadata\ad\ad3539a1bf7ab2c41ba07a9f67559f6e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+    projectPath: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\af\af9df1e54af40472a80130f909aef80c
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\af\af9df1e54af40472a80130f909aef80c
+    projectPath: Library\metadata\af\af9df1e54af40472a80130f909aef80c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\af\afd506de678edd747a4568ab01acb0d4
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\af\afd506de678edd747a4568ab01acb0d4
+    projectPath: Library\metadata\af\afd506de678edd747a4568ab01acb0d4
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\b0\b065703cfbf00f74bb12dd5fc273ec59
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\b0\b065703cfbf00f74bb12dd5fc273ec59
+    projectPath: Library\metadata\b0\b065703cfbf00f74bb12dd5fc273ec59
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\b2\b2047d1b32a554aa8ba860ba5c052b80
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\b2\b2047d1b32a554aa8ba860ba5c052b80
+    projectPath: Library\metadata\b2\b2047d1b32a554aa8ba860ba5c052b80
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+    projectPath: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+    projectPath: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\b3\b3a246240ed6c44f29381dd4d60ed36d
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\b3\b3a246240ed6c44f29381dd4d60ed36d
+    projectPath: Library\metadata\b3\b3a246240ed6c44f29381dd4d60ed36d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\b5\b5da970776034f77a070d99423d68791
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\b5\b5da970776034f77a070d99423d68791
+    projectPath: Library\metadata\b5\b5da970776034f77a070d99423d68791
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\b6\b6bd772b73a504ab5a27db2031715b95
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\b6\b6bd772b73a504ab5a27db2031715b95
+    projectPath: Library\metadata\b6\b6bd772b73a504ab5a27db2031715b95
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
+    projectPath: Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\bf\bff675daa93e14cd1a91d9247f54ea89
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\bf\bff675daa93e14cd1a91d9247f54ea89
+    projectPath: Library\metadata\bf\bff675daa93e14cd1a91d9247f54ea89
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\c0\c0503727f302a44a3b74e1083b31c080
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\c0\c0503727f302a44a3b74e1083b31c080
+    projectPath: Library\metadata\c0\c0503727f302a44a3b74e1083b31c080
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\c2\c258689f69bdf4f3c9c06075929e847c
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\c2\c258689f69bdf4f3c9c06075929e847c
+    projectPath: Library\metadata\c2\c258689f69bdf4f3c9c06075929e847c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\c5\c5f20314b232248d3972665d64a42a3e
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\c5\c5f20314b232248d3972665d64a42a3e
+    projectPath: Library\metadata\c5\c5f20314b232248d3972665d64a42a3e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\ca\cabe752ddf455ae4aba47ff5f2d8b8bd
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\ca\cabe752ddf455ae4aba47ff5f2d8b8bd
+    projectPath: Library\metadata\ca\cabe752ddf455ae4aba47ff5f2d8b8bd
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\ce\ce80d7520e4604c6faaad086dc1a7590
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\ce\ce80d7520e4604c6faaad086dc1a7590
+    projectPath: Library\metadata\ce\ce80d7520e4604c6faaad086dc1a7590
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\d0\d05b96cee66e14240838de167097537a
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\d0\d05b96cee66e14240838de167097537a
+    projectPath: Library\metadata\d0\d05b96cee66e14240838de167097537a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\d0\d09888fb380864d7d820ffed5c260deb
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\d0\d09888fb380864d7d820ffed5c260deb
+    projectPath: Library\metadata\d0\d09888fb380864d7d820ffed5c260deb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+    projectPath: Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\d7\d77b7fa7692814e3ebcebfae45064c07
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\d7\d77b7fa7692814e3ebcebfae45064c07
+    projectPath: Library\metadata\d7\d77b7fa7692814e3ebcebfae45064c07
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+    projectPath: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\da\dab6c0dea21994386a57acc588faa9e5
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\da\dab6c0dea21994386a57acc588faa9e5
+    projectPath: Library\metadata\da\dab6c0dea21994386a57acc588faa9e5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\db\db2c1ccad7abc5945acd3342facc4e4c
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\db\db2c1ccad7abc5945acd3342facc4e4c
+    projectPath: Library\metadata\db\db2c1ccad7abc5945acd3342facc4e4c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+    projectPath: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\dd\ddcc1ff8508d64181a01650d50412a97
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\dd\ddcc1ff8508d64181a01650d50412a97
+    projectPath: Library\metadata\dd\ddcc1ff8508d64181a01650d50412a97
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+    projectPath: Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\e3\e33383ce3afd26c41a6994f0af6a6743
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\e3\e33383ce3afd26c41a6994f0af6a6743
+    projectPath: Library\metadata\e3\e33383ce3afd26c41a6994f0af6a6743
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+    projectPath: Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\e9\e90ffef63019341a7b604f8f0daae805
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\e9\e90ffef63019341a7b604f8f0daae805
+    projectPath: Library\metadata\e9\e90ffef63019341a7b604f8f0daae805
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+    projectPath: Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\ec\ec5fec4779579485787e926a584bdc7d
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\ec\ec5fec4779579485787e926a584bdc7d
+    projectPath: Library\metadata\ec\ec5fec4779579485787e926a584bdc7d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\ed\ed72f49bf7af8450ea16c4af1a47f9fe
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\ed\ed72f49bf7af8450ea16c4af1a47f9fe
+    projectPath: Library\metadata\ed\ed72f49bf7af8450ea16c4af1a47f9fe
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+    projectPath: Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\ee\ee18544d8ac514d3ca38bcbe875280ad
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\ee\ee18544d8ac514d3ca38bcbe875280ad
+    projectPath: Library\metadata\ee\ee18544d8ac514d3ca38bcbe875280ad
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\f1\f1261185c4fd4aa409a0d387c363fdba
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\f1\f1261185c4fd4aa409a0d387c363fdba
+    projectPath: Library\metadata\f1\f1261185c4fd4aa409a0d387c363fdba
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+    projectPath: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+    projectPath: Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+    projectPath: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Chess\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\ScriptAssemblies\Unity.TextMeshPro.dll.mdb
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\ScriptAssemblies\Unity.TextMeshPro.dll.mdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll.mdb
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll.mdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\ScriptAssemblies\UnityEditor.StandardEvents.dll.mdb
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\ScriptAssemblies\UnityEditor.StandardEvents.dll.mdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.StandardEvents.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Temp\TarGZ\archtemp.tar
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\TarGZ\archtemp.tar
+    projectPath: Temp\TarGZ\archtemp.tar
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Chess\Temp\UnityLockfile
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-02eb0b50c83a0e343a6eaa41f1b6c931
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-02eb0b50c83a0e343a6eaa41f1b6c931
+    projectPath: Temp\UnityTempFile-02eb0b50c83a0e343a6eaa41f1b6c931
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-0539adb6129121248bee556bb43a5bda
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-0539adb6129121248bee556bb43a5bda
+    projectPath: Temp\UnityTempFile-0539adb6129121248bee556bb43a5bda
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-0634c20523b1a374cb25b3b07ab64228
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-0634c20523b1a374cb25b3b07ab64228
+    projectPath: Temp\UnityTempFile-0634c20523b1a374cb25b3b07ab64228
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-07b0916e9cf48504ea0ea0fdb251fdea
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-07b0916e9cf48504ea0ea0fdb251fdea
+    projectPath: Temp\UnityTempFile-07b0916e9cf48504ea0ea0fdb251fdea
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-1eaae940b8771bd4fae36d06bad8bcab
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-1eaae940b8771bd4fae36d06bad8bcab
+    projectPath: Temp\UnityTempFile-1eaae940b8771bd4fae36d06bad8bcab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-267714b4a26eec74ca2f4487f731f840
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-267714b4a26eec74ca2f4487f731f840
+    projectPath: Temp\UnityTempFile-267714b4a26eec74ca2f4487f731f840
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-391cf1fa787152f48a29d2cbda9fd513
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-391cf1fa787152f48a29d2cbda9fd513
+    projectPath: Temp\UnityTempFile-391cf1fa787152f48a29d2cbda9fd513
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-3ba9247b249bb404ab3104caa1891b46
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-3ba9247b249bb404ab3104caa1891b46
+    projectPath: Temp\UnityTempFile-3ba9247b249bb404ab3104caa1891b46
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-3fcb973a6b2a1024c9abf96a4b4eb165
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-3fcb973a6b2a1024c9abf96a4b4eb165
+    projectPath: Temp\UnityTempFile-3fcb973a6b2a1024c9abf96a4b4eb165
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-5b298e960c2577446abf15df6ce2fa77
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-5b298e960c2577446abf15df6ce2fa77
+    projectPath: Temp\UnityTempFile-5b298e960c2577446abf15df6ce2fa77
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-5b8dbbb1411f2c24eb1e0ad559df7fe5
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-5b8dbbb1411f2c24eb1e0ad559df7fe5
+    projectPath: Temp\UnityTempFile-5b8dbbb1411f2c24eb1e0ad559df7fe5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-6b68859f240f8b54e94a10e8f3aacd20
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-6b68859f240f8b54e94a10e8f3aacd20
+    projectPath: Temp\UnityTempFile-6b68859f240f8b54e94a10e8f3aacd20
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-6c94c075978dbb642a5ca32ed46b72b9
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-6c94c075978dbb642a5ca32ed46b72b9
+    projectPath: Temp\UnityTempFile-6c94c075978dbb642a5ca32ed46b72b9
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-7f9fc5a2b894b464788e1db6eeba4729
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-7f9fc5a2b894b464788e1db6eeba4729
+    projectPath: Temp\UnityTempFile-7f9fc5a2b894b464788e1db6eeba4729
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-8d0dbe423b2a27b4f8a499021c9a8dd9
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-8d0dbe423b2a27b4f8a499021c9a8dd9
+    projectPath: Temp\UnityTempFile-8d0dbe423b2a27b4f8a499021c9a8dd9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-97add1f0bedccd146925e85e9faa6b81
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-97add1f0bedccd146925e85e9faa6b81
+    projectPath: Temp\UnityTempFile-97add1f0bedccd146925e85e9faa6b81
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-9b0930c9d3c6ed341a36a0033f743b8c
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-9b0930c9d3c6ed341a36a0033f743b8c
+    projectPath: Temp\UnityTempFile-9b0930c9d3c6ed341a36a0033f743b8c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-a628ffd521722564198330834f3a60ae
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-a628ffd521722564198330834f3a60ae
+    projectPath: Temp\UnityTempFile-a628ffd521722564198330834f3a60ae
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-ade556dc4237eae4dae288aff991967f
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-ade556dc4237eae4dae288aff991967f
+    projectPath: Temp\UnityTempFile-ade556dc4237eae4dae288aff991967f
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-bbe762fe8d6c44142b0144dcde3b38fd
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-bbe762fe8d6c44142b0144dcde3b38fd
+    projectPath: Temp\UnityTempFile-bbe762fe8d6c44142b0144dcde3b38fd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-c82dd36b3b03c024796f8567c66618d1
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-c82dd36b3b03c024796f8567c66618d1
+    projectPath: Temp\UnityTempFile-c82dd36b3b03c024796f8567c66618d1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-cec12705b08ae334598c490c546511b1
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-cec12705b08ae334598c490c546511b1
+    projectPath: Temp\UnityTempFile-cec12705b08ae334598c490c546511b1
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-db6a209ce4d5808498d5ef09217cf4ed
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-db6a209ce4d5808498d5ef09217cf4ed
+    projectPath: Temp\UnityTempFile-db6a209ce4d5808498d5ef09217cf4ed
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-e1c6c290a74f6cb46a1b9d75671d1597
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-e1c6c290a74f6cb46a1b9d75671d1597
+    projectPath: Temp\UnityTempFile-e1c6c290a74f6cb46a1b9d75671d1597
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-f7f2f290ddd5a7d47815cc5fb77368b4
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-f7f2f290ddd5a7d47815cc5fb77368b4
+    projectPath: Temp\UnityTempFile-f7f2f290ddd5a7d47815cc5fb77368b4
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Chess\Temp\UnityTempFile-fc453204004143949818aa5211e7c5ca
+    fullPath: C:\Users\Malserve\Documents\GitHub\chess-game\Chess\Temp\UnityTempFile-fc453204004143949818aa5211e7c5ca
+    projectPath: Temp\UnityTempFile-fc453204004143949818aa5211e7c5ca
+    originalPath: 
+    status: 1
+    staged: 0
